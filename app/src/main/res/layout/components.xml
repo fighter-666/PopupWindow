@@ -34,7 +34,7 @@
                 android:singleLine="true"
                 android:maxLength="10"
                 android:ellipsize="end"
-                android:text="哈密瓜"
+                android:text="香蕉"
                 android:textSize="18dp"
                 android:textStyle="bold"
                 android:textColor="#000000"/>
